@@ -1,5 +1,5 @@
 # About Me
 
-- 🔭 I’m currently working on PT Kalbe Nutritionals as a ~cheerleader~ Web & Mobile Developer.
-- 🌱 I’m currently learning PHP, Kotlin, VB.Net and C#
-- 📫 How to reach me: me@firdy.dev
+- Currently working on PT Kalbe Nutritionals as a Web & Mobile Developer.
+- Using PHP and C# as Web Development and Kotlin as Android Development.
+me@firdy.dev
